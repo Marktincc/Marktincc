@@ -1,6 +1,6 @@
 ###
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/105111683?v=4" />
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/105111683?v=4 style="border-radius: 50%;" />
    
 </p>
 
